@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "divine-forest-6b9d",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "fb69e556-4fb0-4e14-82df-7f0096325b44",
+      "database_name": "proud-bird-8fc5-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
